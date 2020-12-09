@@ -1,7 +1,3 @@
-<p align='center'>
-    <img src='https://www.powersonic.com.br/downloads/gifs/others/screen01.gif' />
-</p>
-
 <h2 align='center'>Hello World!!! 👋</h2>
 <p align='center'>I'm Lucas, a full stack developer from Brazil</p>
 
