@@ -43,7 +43,6 @@
 
 </br>
 
-- 📖 Computer Science student at UFPI (YEAH! SCIENCE 👊)
 - 👯 I’m looking to collaborate on **back end and front end projects**
 - 🌱 Learning more about **BaaS and Devops**
 - 💬 Ask me about **node.js, react.js, react-native, Unity**
