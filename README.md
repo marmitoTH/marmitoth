@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/lucas-rodrigues-985918197/" target="_blank" >
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn--%23F8952D?style=social&logo=linkedin">
     </a>
-    <a href="marmitoth@outlook.com" target="_blank" >
+    <a href="mailto:marmitoth@outlook.com" target="_blank" >
         <img alt="E-mail" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
     </a>
     <a href="https://www.youtube.com/channel/UC68qKjP7l6weO5P7mmbSvPA" target="_blank" >
