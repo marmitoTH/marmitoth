@@ -1,4 +1,4 @@
-<div class="Title">
+<div class="title">
     <h2 align='center'>Hello World!!! 👋</h2>
     <p align='center'>I'm Lucas, a full stack developer from Brazil</p>
 </div>
