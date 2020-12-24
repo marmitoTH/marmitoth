@@ -21,7 +21,7 @@
     </a>
 </p>
 
-<p align='center' class="hide-in-mobile">
+<p align='center' class="image-list">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"  width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"  width="30" height="30"/>
