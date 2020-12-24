@@ -1,7 +1,7 @@
-<p class="Title">
+<div class="Title">
     <h2 align='center'>Hello World!!! 👋</h2>
     <p align='center'>I'm Lucas, a full stack developer from Brazil</p>
-</p>
+</div>
 
 <p align='center'>
     <a href="https://github.com/marmitoTH" target="_blank" >
