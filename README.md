@@ -1,5 +1,7 @@
-<h2 align='center'>Hello World!!! 👋</h2>
-<p align='center'>I'm Lucas, a full stack developer from Brazil</p>
+<p class="Title">
+    <h2 align='center'>Hello World!!! 👋</h2>
+    <p align='center'>I'm Lucas, a full stack developer from Brazil</p>
+</p>
 
 <p align='center'>
     <a href="https://github.com/marmitoTH" target="_blank" >
@@ -19,7 +21,7 @@
     </a>
 </p>
 
-<p align='center'>
+<p align='center' class="hide-in-mobile">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"  width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"  width="30" height="30"/>
@@ -46,7 +48,7 @@
 
 </br>
 
-<p align="center" >
+<p align="center" class="hide-in-mobile">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marmitoth&show_icons=true&theme=dracula&locale=en&layout=compact" alt="marmitoth" height="150" />
     <img src="https://github-readme-stats.vercel.app/api?username=marmitoth&show_icons=true&theme=dracula&locale=en" alt="marmitoth" height="150" />
 </p>
