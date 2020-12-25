@@ -1,5 +1,5 @@
 <div class="title">
-    <h2 align='center'>Hi, I'm Lucas Rodrigues!</h2>
+    <h2 align='center'>Hi, I'm Lucas!</h2>
     <p align='center'>I'm a full stack developer from Brazil</p>
 </div>
 
@@ -45,7 +45,7 @@
 
 </br>
 
-<p align="center" class="hide-in-mobile">
+<p align="center" class="hide-in-mobile stats-images">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marmitoth&show_icons=true&theme=dracula&locale=en&layout=compact" alt="marmitoth" height="150" />
     <img src="https://github-readme-stats.vercel.app/api?username=marmitoth&show_icons=true&theme=dracula&locale=en" alt="marmitoth" height="150" />
 </p>
