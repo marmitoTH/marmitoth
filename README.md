@@ -1,8 +1,6 @@
-## Hi, I'm Lucas
+# Hi, I'm Lucas 👋️
 
-I'm a full stack developer from Brazil
-
-<p align='left'>
+<p class='hidden'>
     <a href='https://github.com/marmitoth' target='_blank'>
         <img alt='LinkedIn' src='https://img.shields.io/badge/GitHub-blue?logo=GitHub&style=flat-square'>
     </a>
@@ -17,30 +15,9 @@ I'm a full stack developer from Brazil
     </a>
 </p>
 
-<p align='left' class="tech-icons-list">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="25" height="25"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"  width="25" height="25"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"  width="25" height="25"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql"  width="25" height="25"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql"  width="25" height="25"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker"  width="25" height="25"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5"  width="25" height="25"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3"  width="25" height="25"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react"  width="25" height="25"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"  width="25" height="25"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  width="25" height="25"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"  width="25" height="25"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"  width="25" height="25"/>
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"  width="25" height="25"/>
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity"  width="25" height="25"/>
-</p>
+I'm a full-stack developer from Brazil, with experience in **JavaScript** and **TypeScript**! I like to build front-end applications using **ReactJS**, **React Native** or any other react based frameworks. For the back-end I like to use **NodeJS**, with **SQL** databases like **MySQL** or **PostgreSQL**, but I'm also familiar with noSQL databases, like MongoDB. I also like to make **games** in **Unity** or **Godot** with **C#**.
 
-- 👯 I’m looking to collaborate on **back end and front end projects**
-- 🌱 Learning more about **BaaS and Devops**
-- 💬 Ask me about **node.js, react.js, react-native, Unity**
-- 💌 Reach me in **marmitoth@outlook.com**
-
-<p align="left" class="hide-in-mobile stats-images">
+<p class='hidden'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marmitoth&show_icons=true&theme=dracula&locale=en&layout=compact" alt="marmitoth" height="150" />
     <img src="https://github-readme-stats.vercel.app/api?username=marmitoth&show_icons=true&theme=dracula&locale=en" alt="marmitoth" height="150" />
 </p>
