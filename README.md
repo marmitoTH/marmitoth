@@ -1,6 +1,6 @@
 # Hi, I'm Lucas 👋️
 
-<p class='hidden'>
+<p>
     <a href='https://github.com/marmitoth' target='_blank'>
         <img alt='LinkedIn' src='https://img.shields.io/badge/GitHub-blue?logo=GitHub&style=flat-square'>
     </a>
@@ -17,7 +17,7 @@
 
 I'm a full-stack developer with experience in **JavaScript** and **TypeScript**! I like to build front-end applications using **ReactJS**, **React Native** or any other react based frameworks. For the back-end I like to use **NodeJS**, with **SQL** databases like **MySQL** or **PostgreSQL**, but I'm also familiar with noSQL databases, like **MongoDB**. I also like to make **games** in **Unity** or **Godot** with **C#**.
 
-<p class='hidden'>
+<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marmitoth&show_icons=true&theme=dracula&locale=en&layout=compact" alt="marmitoth" height="150" />
     <img src="https://github-readme-stats.vercel.app/api?username=marmitoth&show_icons=true&theme=dracula&locale=en" alt="marmitoth" height="150" />
 </p>
