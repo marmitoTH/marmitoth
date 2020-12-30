@@ -19,6 +19,6 @@ I'm a full-stack developer with experience in **JavaScript** and **TypeScript**.
 <p class='hidden'>You can find more information on my <a href='https://marmito.dev' target='__blank'><strong>portfolio</strong></a>!</p>
 
 <p class='hidden'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marmitoth&show_icons=true&theme=dracula&locale=en&layout=compact" alt="marmitoth" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api?username=marmitoth&show_icons=true&theme=dracula&locale=en" alt="marmitoth" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marmitoth&show_icons=true&theme=dark&locale=en&layout=compact" alt="marmitoth" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=marmitoth&show_icons=true&theme=dark&locale=en" alt="marmitoth" height="150" />
 </p>
