@@ -2,7 +2,7 @@
 
 <p class='hidden'>
     <a href='https://marmito.dev' target='_blank'>
-        <img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-black?logo=flat-square'>
+        <img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-black?logo=vercel&style=flat-square'>
     </a>
     <a href='https://www.linkedin.com/in/lucas-rodrigues-985918197' target='_blank'>
         <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-black?logo=LinkedIn&style=flat-square'>
