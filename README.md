@@ -1,9 +1,6 @@
 # Hi, I'm Lucas 👋️
 
 <p class='hidden'>
-    <a href='https://github.com/marmitoth' target='_blank'>
-        <img alt='LinkedIn' src='https://img.shields.io/badge/GitHub-blue?logo=GitHub&style=flat-square'>
-    </a>
     <a href='https://www.linkedin.com/in/lucas-rodrigues-985918197' target='_blank'>
         <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&style=flat-square'>
     </a>
