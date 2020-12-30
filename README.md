@@ -1,4 +1,4 @@
-# Hi, I'm Lucas 👋️
+# Hi, I'm Lucas Rodrigues 👋️
 
 <p class='hidden'>
     <a href='https://marmito.dev' target='_blank'>
